@@ -48,8 +48,3 @@ A real hardware project using:
 Thanks to the mentors and seniors of **N.E.R.D.S.**, NIT Silchar, for organizing the workshop and guiding us throughout.
 
 ---
-
-## 📌 Related Hashtags  
-`#Krittim2025` `#Arduino` `#RoboticsWorkshop` `#GestureBot` `#NITSilchar`
-
-
